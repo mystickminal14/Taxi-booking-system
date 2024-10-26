@@ -1,0 +1,22 @@
+project/
+│
+├── middleware/
+│   ├── registration_model.py
+│   ├── driv_model.py
+│   ├── reserve.py
+│   └── login_model.py
+│
+├── design/
+│   ├── customer_dashboard.py
+│   ├── home_page.py
+│   ├── customer_registration_form.py
+│   ├── login_form.py
+│   ├── manager_dashboard.py
+│   ├── driver_reg.py
+│   └── driver_dash.py
+│
+├── backend/
+│   ├── storage.py
+│   └── customer_storage.py
+│
+├── gobal.py
